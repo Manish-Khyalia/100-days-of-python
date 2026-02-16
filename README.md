@@ -1,29 +1,75 @@
-# 100 Days of Python 
+Python Projects
 
-Welcome to my journey through the **100 Days of Code: Python** course!  
-I'm learning Python by building a project every day — and this repository tracks my progress.
+Welcome to my Python Projects repository! 
 
-# Daily Projects
+This repository contains a collection of Python mini-projects built while learning and practicing core programming concepts. Each project focuses on strengthening logic building, problem-solving skills, and understanding of Python fundamentals.
 
-Below are the projects I've completed so far:
+📂 Projects Included
+🎮 Games
 
-- **Day 01:** Band Name Generator  
-- **Day 02:** Tip Calculator  
-- **Day 03:** Treasure Island Game  
-- **Day 04:** Rock Paper Scissors  
-- **Day 05:** Password Generator  
+Black Jack Game – Command-line implementation of the classic card game.
 
-> I will update this list daily as I complete each new project.
+Hangman – Word guessing game with game loop logic.
 
----
+Rock Paper Scissors – Simple interactive game.
 
-## 📬 Connect with Me
+Treasure Island – Decision-based adventure game.
 
-- 📧 Email: manishkhyalia2017@gmail.com  
-- 🧑‍💻 GitHub: [ManishKhyalia](https://github.com/ManishKhyalia)
+Guessing Game – Number guessing game with conditional logic.
 
+Quiz Game – Multiple-choice quiz application.
 
-This project is for learning and sharing. You are free to explore and learn from the code!
+🛠 Utility Projects
+
+Calculator – Basic arithmetic calculator.
+
+Tip Calculator – Calculates bill split and tip amount.
+
+Password Generator – Generates strong random passwords.
+
+Caesar Cipher – Text encryption and decryption program.
+
+Guess Followers – Comparison-based guessing logic project.
+
+☕ OOP Based Project
+
+Coffee Machine – Object-Oriented simulation of a coffee machine handling resources, money, and menu items.
+
+🧠 Concepts Practiced
+
+Variables & Data Types
+
+Conditional Statements
+
+Loops
+
+Functions
+
+Lists & Dictionaries
+
+Object-Oriented Programming (OOP)
+
+Random Module
+
+Game Logic Implementation
+
+🎯 Purpose of This Repository
+
+Improve Python fundamentals
+
+Build project-based learning habit
+
+Strengthen logical thinking
+
+Create a strong developer portfolio
+
+This repository reflects my consistent effort to grow as a software developer.
+
+📬 Connect With Me
+
+📧 Email: manishkhyalia2017@gmail.com
+
+🧑‍💻 GitHub: ManishKhyalia
 
 
 
